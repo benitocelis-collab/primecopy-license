@@ -1,6 +1,10 @@
 {
-  "version": 1,
-  "hashes": [
-    "ffdce37a89c4c36e4b5794b3a481630ee46a5345728261ab15b5bb86b0e72793"
+  "version": 2,
+  "plans": {
+    "starter": { "maxSlaves": 3 },
+    "pro": { "maxSlaves": 0 }
+  },
+  "users": [
+    { "hash": "ffdce37a89c4c36e4b5794b3a481630ee46a5345728261ab15b5bb86b0e72793", "plan": "starter", "expires": null }
   ]
 }
